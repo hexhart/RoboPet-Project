@@ -1,2 +1,38 @@
-# RoboPet-Project
-Personal project on creating a desktop robot pet. This project evolve as I learn new things about Robotics that involves Programming, Microprocessors, Sensors, and Artificial Intelligence. 
+<h1 align="center">RoboPet Project: A Journey to Robot Creation 🤖</h1>
+<h3 align="center">By H.H. Jimenez (Hex)</h3>
+
+![Project Banner](https://github.com/user-attachments/assets/a7101c0b-f096-48cc-8a10-2b56be32110c)
+
+## Summary:
+This is a personal project documenting my journey in creating a personalized desktop pet robot. It provides some key insights into product design, programming, prototyping, electronics, product testing, project management, and Artificial Intelligence. I envision this project to evolve as I learn new things from exploring all these key insights while also highlight some of the challenges faced. 
+
+## Project Stages:
+### 1. Analysis: Creation of the Robot's Face, Components, Functionalities, Features, etc
+At this stage, I plan to create the robot's literal facial component using a display that shows the robot's eyes. In order to achieve this, I watched [FluxGarage's YouTube Channel](https://www.youtube.com/@FluxGarage) for inspiration and my starting point in doing this project.
+
+(To be updated..)
+
+---------------------------------------------------------
+### 2. Planning and Design: Assembling components, Wiring diagrams, 3D Modelling, etc.
+#### Hardware & Software Requirements:
+  - To be added..
+
+#### Installation:
+  - To be added..
+
+---------------------------------------------------------
+### 3. Development: Programming Codes
+- To be added..
+
+---------------------------------------------------------
+### 4. Prototyping & Testing: 3D Printing, 
+- To be added..
+
+## Project Changelogs:
+- Update 05.09.2025: Creation of Repository and README.md
+
+## ADDITIONAL NOTES:
+- Created by HHJimenez (Hex)
+- Robot Eyes Integration based on: [https://github.com/FluxGarage/RoboEyes/](https://github.com/FluxGarage/RoboEyes/)
+
+You have reached the end of this README. Thank you.
