@@ -1,6 +1,7 @@
 <h1 align="center">RoboPet Project: A Journey to Robot Creation 🤖</h1>
 <h3 align="center">By H.H. Jimenez (Hex)</h3>
-![ProjectBanner](https://github.com/user-attachments/assets/90cb69c2-f224-4bcf-b865-3191e09968f1)
+
+![Banner](https://github.com/user-attachments/assets/15df38b4-1127-4f8a-967e-80f290ad8bb8)
 
 ## Summary:
 This is a personal project documenting my journey in creating a personalized desktop pet robot. It provides some key insights into product design, programming, prototyping, electronics, product testing, project management, and Artificial Intelligence. I envision this project to evolve as I learn new things from exploring all these key insights while also highlight some of the challenges faced. 
