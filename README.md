@@ -14,19 +14,33 @@ At this stage, I plan to create the robot's literal facial component using a dis
 
 ### 2. Planning and Design: Assembling components, Wiring diagrams, 3D Modelling, etc.
 #### Hardware & Software Requirements:
-  - To be added..
+  - OLED & TFT Display
+  - Jumper Wires
+  - Breadboard
+  - Arduino Nano
+  - ESP23-S3 Mini Development Board
+  - Tri-Axis Digital Tilt Sensor
+  - Touch Sensor
+  - ToF
+  - Speakers
+  - Mic & SoundBoard
+  - Arduino IDE
+  - VSCode IDE
 
 #### Installation:
   - To be added..
 
 ### 3. Development: Programming Codes
-- To be added..
+- ESP23-S3 Mini Board Disconnecting Fix [here[1]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix) and [here[2]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix-lightsOff)
+- 
 
 ### 4. Prototyping & Testing: 3D Printing, 
 - To be added..
 
 ## Project Changelogs:
-- Update 05.09.2025: Creation of Repository and README.md
+- Update 05.09.2025:
+    - Creation of Repository and README.md
+    - Added code fix for ESP32-S3 Mini
 
 ## ADDITIONAL NOTES:
 - Created by HHJimenez (Hex)
