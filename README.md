@@ -12,7 +12,7 @@ At this stage, I plan to create the robot's literal facial component using a dis
 
 (To be updated..)
 
-### 2. Planning and Design: Assembling components, Wiring diagrams, 3D Modelling, etc.
+### 2. Planning: Hardware and Software
 #### Hardware Requirements:
   - OLED & TFT Display
   - Jumper Wires
@@ -29,10 +29,13 @@ At this stage, I plan to create the robot's literal facial component using a dis
   - Download and Install [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
   - Download [Visual Studio Code IDE](https://code.visualstudio.com/download)
 
-### 3. Development: Programming Codes
+### 3. Design: Assembling components, Wiring diagrams, 3D Modelling, etc
+- To be added..
+
+### 4. Development: Programming Codes
 - ESP23-S3 Mini Board Disconnecting Fix [here[1]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix) and [here[2]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix-lightsOff)
 
-### 4. Prototyping & Testing: 3D Printing, 
+### 5. Prototyping & Testing: 3D Printing, 
 - To be added..
 
 ## Project Changelogs:
