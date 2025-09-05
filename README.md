@@ -6,7 +6,7 @@
 This is a personal project documenting my journey in creating a personalized desktop pet robot. It provides some key insights into product design, programming, prototyping, electronics, product testing, project management, and Artificial Intelligence. I envision this project to evolve as I learn new things from exploring all these key insights while also highlight some of the challenges faced. 
 
 ## Project Stages:
-### 1. Analysis: Robot's Face, Body Components, Functionalities, Features, Motivation & Inspiration
+### 1. Analysis: Robot's Face, Body Components, Functionalities, Features, Motivation
 At this stage, I plan to create the robot's literal facial component using a display that shows the robot's eyes. In order to achieve this, I watched [FluxGarage's YouTube Channel](https://www.youtube.com/@FluxGarage) for inspiration and my starting point in doing this project.
 
 (To be updated..)
@@ -21,6 +21,7 @@ At this stage, I plan to create the robot's literal facial component using a dis
   - Tri-Axis Digital Tilt Sensor
   - Touch Sensor
   - ToF
+  - [Person Sensor](https://www.hackster.io/useful-sensors/products/person-sensor?ref=project-ed9ea3)
   - Speakers
   - Mic & SoundBoardNote: To be added..
 
@@ -28,8 +29,9 @@ At this stage, I plan to create the robot's literal facial component using a dis
   - Download and Install [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
   - Download [Visual Studio Code IDE](https://code.visualstudio.com/download)
 
-### 3. Design: Assembling components, Wiring diagrams, 3D Modelling
-- To be added..
+### 3. Design: Assembling components, Wiring diagrams, 3D Modelling, Design Inspiration
+- To be updated..
+
 
 ### 4. Development: Programming Codes
 - ESP23-S3 Mini Board Disconnecting Fix [here[1]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix) and [here[2]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix-lightsOff)
@@ -48,6 +50,7 @@ At this stage, I plan to create the robot's literal facial component using a dis
 ## ADDITIONAL NOTES:
 - Created by HHJimenez (Hex)
 - Robot Eyes Integration based on: [https://github.com/FluxGarage/RoboEyes/](https://github.com/FluxGarage/RoboEyes/)
+- Presence Detection Reference: [Useful Sensors Project Lists](https://www.hackster.io/useful-sensors/projects)
 __________________________________________
 <p align="center"><img width="200" height="200" alt="Logo2m" src="https://github.com/user-attachments/assets/147e72b3-d07b-43d9-aa80-f49094e3b592" /></p>
 <h4 align="center">You have reached the end of this README. Thank you.</h4>
