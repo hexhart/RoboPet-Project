@@ -1,7 +1,6 @@
 <h1 align="center">RoboPet Project: A Journey to Robot Creation 🤖</h1>
 <h3 align="center">By H.H. Jimenez (Hex)</h3>
-
-![Banner](https://github.com/user-attachments/assets/15df38b4-1127-4f8a-967e-80f290ad8bb8)
+<p align="center"><img width="800" height="600" alt="Banner" src="https://github.com/user-attachments/assets/15df38b4-1127-4f8a-967e-80f290ad8bb8" /></p>
 
 ## Summary:
 This is a personal project documenting my journey in creating a personalized desktop pet robot. It provides some key insights into product design, programming, prototyping, electronics, product testing, project management, and Artificial Intelligence. I envision this project to evolve as I learn new things from exploring all these key insights while also highlight some of the challenges faced. 
@@ -49,5 +48,6 @@ At this stage, I plan to create the robot's literal facial component using a dis
 ## ADDITIONAL NOTES:
 - Created by HHJimenez (Hex)
 - Robot Eyes Integration based on: [https://github.com/FluxGarage/RoboEyes/](https://github.com/FluxGarage/RoboEyes/)
-
-You have reached the end of this README. Thank you.
+__________________________________________
+<p align="center"><img width="200" height="200" alt="Logo2m" src="https://github.com/user-attachments/assets/147e72b3-d07b-43d9-aa80-f49094e3b592" /></p>
+<h4 align="center">You have reached the end of this README. Thank you.</h4>
