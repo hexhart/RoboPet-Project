@@ -46,6 +46,9 @@ At this stage, I plan to create the robot's literal facial component using a dis
 - Update 05.09.2025:
     - Creation of Repository and README.md
     - Added code fix for ESP32-S3 Mini
+ 
+## Future Implementations (May or May Not Happen):
+- Animatronic Dual Eye Mechanism: Instructions [Here](https://www.instructables.com/Simplified-3D-Printed-Animatronic-Dual-Eye-Mechani/)
 
 ## ADDITIONAL NOTES:
 - Created by HHJimenez (Hex)
