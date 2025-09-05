@@ -12,7 +12,6 @@ At this stage, I plan to create the robot's literal facial component using a dis
 
 (To be updated..)
 
----------------------------------------------------------
 ### 2. Planning and Design: Assembling components, Wiring diagrams, 3D Modelling, etc.
 #### Hardware & Software Requirements:
   - To be added..
@@ -20,11 +19,9 @@ At this stage, I plan to create the robot's literal facial component using a dis
 #### Installation:
   - To be added..
 
----------------------------------------------------------
 ### 3. Development: Programming Codes
 - To be added..
 
----------------------------------------------------------
 ### 4. Prototyping & Testing: 3D Printing, 
 - To be added..
 
