@@ -27,8 +27,8 @@ At this stage, I plan to create the robot's literal facial component using a dis
   - Arduino IDE
   - VSCode IDE
 
-#### Installation:
-  - To be added..
+#### Installation (IDE):
+  - Download and Install [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
 
 ### 3. Development: Programming Codes
 - ESP23-S3 Mini Board Disconnecting Fix [here[1]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix) and [here[2]](https://github.com/hexhart/RoboPet-Project/blob/main/Arduino-Codes/ESP32-S3Mini/disconnect-fix-lightsOff)
