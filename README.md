@@ -55,6 +55,8 @@ At this stage, I plan to create the robot's literal facial component using a dis
 - Created by HHJimenez (Hex)
 - Robot Eyes Integration based on: [FluxGarage's RoboEyes Library](https://github.com/FluxGarage/RoboEyes/)
 - Presence Detection Reference: [Useful Sensors Project Lists](https://www.hackster.io/useful-sensors/projects)
+- Play tones on ESP32S3 (MicroPython) + MAX98357: [Coxxect's Guide](https://coxxect.blogspot.com/2025/03/esp32s3-micropython-max98357-i2s-audio.html)
+- YouTube Video Reference on ESP32 Sound - Working with I2S by [DroneBot Workshop](https://www.youtube.com/watch?v=m-MPBjScNRk)
 __________________________________________
 <p align="center"><img width="200" height="200" alt="Logo2m" src="https://github.com/user-attachments/assets/147e72b3-d07b-43d9-aa80-f49094e3b592" /></p>
 <h4 align="center">You have reached the end of this README. Thank you.</h4>
