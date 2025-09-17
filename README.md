@@ -28,7 +28,7 @@ At this stage, I plan to create the robot's literal facial component using a dis
 #### Software Installation (IDE):
   - Download and Install [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
   - Download [Visual Studio Code IDE](https://code.visualstudio.com/download)
-  - Download [ArduinoIDE LittleFS Plugin](https://github.com/earlephilhower/arduino-littlefs-upload)
+  - Download [ArduinoIDE LittleFS Plugin]([https://github.com/earlephilhower/arduino-littlefs-upload](https://github.com/earlephilhower/arduino-littlefs-upload/releases))
 
 ### 3. Design: Assembling components, Wiring diagrams, 3D Modelling, Design Inspiration
 - To be updated..
