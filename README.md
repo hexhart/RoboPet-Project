@@ -13,17 +13,17 @@ At this stage, I plan to create the robot's literal facial component using a dis
 
 ### 2. Planning: Hardware and Software
 #### Hardware Requirements:
-  - OLED & TFT Display
-  - Jumper Wires
-  - Breadboard
-  - Arduino Nano
-  - ESP23-S3 Mini Development Board
-  - Tri-Axis Digital Tilt Sensor
-  - Touch Sensor
-  - ToF
+  - OLED & TFT Display - Achieved / Still awaiting for TFT Displays
+  - Jumper Wires - Achieved
+  - Breadboard - Achieved
+  - Arduino Nano - Achieved
+  - ESP23-S3 Mini Development Board - Achieved
+  - Tri-Axis Digital Tilt Sensor - Still testing
+  - Touch Sensor - Achieved
+  - ToF - Not tested
   - [Person Sensor](https://www.hackster.io/useful-sensors/products/person-sensor?ref=project-ed9ea3)
-  - Speakers
-  - Mic & SoundBoardNote: To be added..
+  - Speakers - Not tested
+  - Mic & SoundBoardNote - in progress
 
 #### Software Installation (IDE):
   - Download and Install [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
